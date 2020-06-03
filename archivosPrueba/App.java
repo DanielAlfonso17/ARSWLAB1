@@ -8,11 +8,6 @@ import edu.escuelaing.arsw.app.model.LineCounter;
 import edu.escuelaing.arsw.app.model.LocLineCounter;
 import edu.escuelaing.arsw.app.model.PhyLineCounter;
 
-/*
- * @Author: Daniel Felipe Alfonso Bueno
- * Arquitectura de Software 2020 - I
- */
-
 public class App
 {
     /*

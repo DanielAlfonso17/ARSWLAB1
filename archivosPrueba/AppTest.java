@@ -15,10 +15,8 @@ import javax.sound.sampled.Line;
 import java.io.File;
 import java.io.IOException;
 
-/*
- * @Author: Daniel Felipe Alfonso Bueno
- * Arquitectura de Software 2020 - I
- * TEST
+/**
+ * Unit test for simple App.
  */
 public class AppTest 
 {
